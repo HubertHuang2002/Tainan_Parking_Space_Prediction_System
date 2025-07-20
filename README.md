@@ -2,7 +2,6 @@
 
 #### Introduction  
 This is our final project for the course "Manufacturing Data Science." 
-For a complete project introduction, please visit my [**personal website.**](https://huberthuang2002.github.io/blog/post-2/)
 
 #### Collaborators
 Hung-Kai Yang, Hao-En Sun, Yi-Lun Hung, Ching-Lin Chen, Fan-Jia (Hubert) Huang
